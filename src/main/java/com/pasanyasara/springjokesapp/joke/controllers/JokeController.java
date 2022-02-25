@@ -1,7 +1,6 @@
-package com.pasanyasara.springjokesapp.controllers;
+package com.pasanyasara.springjokesapp.joke.controllers;
 
-import com.pasanyasara.springjokesapp.services.JokeService;
-import org.springframework.beans.factory.annotation.Autowired;
+import com.pasanyasara.springjokesapp.joke.services.JokeService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
